@@ -41,7 +41,7 @@ private Canvas canvas;
         root.getChildren().add(canvas);
         Scene scene = new Scene(root);
         
-        /* set up stage */
+        /* set up stage  */
 
         stage.setScene(scene);
 		stage.setResizable(false);
